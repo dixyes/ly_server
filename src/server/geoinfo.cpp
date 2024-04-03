@@ -1,7 +1,7 @@
 #include "../common/common.h"
 #include "../common/log.h"
 #include "define.h"
-#include <Cgicc.h>
+#include <cgicc/Cgicc.h>
 #include "../common/ipip.hpp"
 #include "../common/regex_validation.hpp"
 

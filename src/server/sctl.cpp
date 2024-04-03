@@ -1,6 +1,6 @@
 #include <google/protobuf/text_format.h>
 #include <iostream>
-#include <Cgicc.h>
+#include <cgicc/Cgicc.h>
 #include <unistd.h>
 #include <sys/types.h>
 #include <cppdb/frontend.h>

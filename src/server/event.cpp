@@ -9,7 +9,7 @@
 #include "dbc.h"
 #include <google/protobuf/text_format.h>
 #include <cppdb/frontend.h>
-#include <Cgicc.h>
+#include <cgicc/Cgicc.h>
 #include <cgicc/HTTPStatusHeader.h>
 #include "../common/mo_req.h"
 

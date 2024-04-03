@@ -3,7 +3,7 @@
 #include <algorithm>
 #include <iostream>
 #include <string>
-#include <Cgicc.h>
+#include <cgicc/Cgicc.h>
 
 using namespace std;
 using namespace boost;

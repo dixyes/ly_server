@@ -4,7 +4,7 @@
 #include "define.h"
 #include "dbc.h"
 #include <cppdb/frontend.h>
-#include <Cgicc.h>
+#include <cgicc/Cgicc.h>
 
 using namespace std;
 using namespace cppdb;

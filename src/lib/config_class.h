@@ -1,7 +1,7 @@
 #ifndef CONFIG_CLASS_H
 #define CONFIG_CLASS_H
 
-#include <Cgicc.h>
+#include <cgicc/Cgicc.h>
 #include <cppdb/frontend.h>
 #include "boost/regex.hpp"
 

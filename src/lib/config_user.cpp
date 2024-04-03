@@ -5,7 +5,7 @@
 #include "../common/log.h"
 #include <cppdb/frontend.h>
 #include <cgicc/CgiDefs.h>
-#include <Cgicc.h>
+#include <cgicc/Cgicc.h>
 #include <cgicc/HTTPContentHeader.h>
 #include <boost/algorithm/string.hpp>
 

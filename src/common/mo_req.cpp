@@ -4,7 +4,7 @@
 #include "datetime.h"
 #include <algorithm>
 #include <iostream>
-#include <Cgicc.h>
+#include <cgicc/Cgicc.h>
 #include <cppdb/frontend.h>
 #include "boost/regex.hpp"
 #include "regex_validation.hpp"

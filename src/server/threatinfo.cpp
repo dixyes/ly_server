@@ -5,7 +5,7 @@
 #include "define.h"
 
 #include <curl/curl.h>
-#include <Cgicc.h>
+#include <cgicc/Cgicc.h>
 #include <cgicc/HTTPContentHeader.h>
 #include <cgicc/HTTPStatusHeader.h>
 

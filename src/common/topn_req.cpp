@@ -5,7 +5,7 @@
 #include "ip.h"
 #include <algorithm>
 #include <string>
-#include <Cgicc.h>
+#include <cgicc/Cgicc.h>
 #include <boost/algorithm/string.hpp>
 // #include "boost/regex.hpp"
 #include "regex_validation.hpp"
