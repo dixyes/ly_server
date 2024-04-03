@@ -11,7 +11,7 @@
 #include "boost/regex.hpp"
 #include <google/protobuf/text_format.h>
 #include <cppdb/frontend.h>
-#include <Cgicc.h>
+#include <cgicc/Cgicc.h>
 #include <algorithm>
 #include <map>
 #include <iomanip>

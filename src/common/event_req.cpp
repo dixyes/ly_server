@@ -4,7 +4,7 @@
 #include "datetime.h"
 #include <algorithm>
 #include <string>
-#include <Cgicc.h>
+#include <cgicc/Cgicc.h>
 #include <boost/algorithm/string.hpp>
 
 using namespace std;
