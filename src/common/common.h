@@ -57,7 +57,6 @@ typedef int16_t s16;
 typedef int32_t s32;
 typedef int64_t s64;
 
-#define nullptr NULL
 #define SECONDS_PER_DAY 86400UL
 #define MAX_BACKTRACK_DAY 365
 #ifndef MAX
